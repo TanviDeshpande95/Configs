@@ -1,0 +1,4 @@
+#Create this file to allow docker to pull images from private registries
+{
+	"insecure-registries": ["ci-repo.englab.juniper.net:5000"]
+}
